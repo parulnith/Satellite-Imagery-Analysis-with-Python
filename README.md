@@ -7,3 +7,5 @@ Orbital Insight, a Geospatial Big Data company, analyses vast amounts of photos 
 
 Objective
 In this article, we shall study how we can examine the vegetation cover of a region with the help of satellite data. This article aims to familiarise the readers with the concept of satellite imagery data and how it can be analyzed to investigate real-world environmental and humanitarian challenges.
+
+# This is an excerpt from my Medium article with the same name. For the complete article, refer [here](https://medium.com/analytics-vidhya/satellite-imagery-analysis-with-python-3f8ccf8a7c32)
